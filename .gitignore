@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+maven_dao/target/
+maven_domain/src/main/resources/
+maven_domain/src/test/
+maven_domain/target/
+maven_service/
+maven_ssm_parent.iml
+maven_web/target/
+pom.xml
